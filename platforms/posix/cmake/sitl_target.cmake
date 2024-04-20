@@ -150,6 +150,7 @@ set(models
 	if750a
 	iris
 	erl_drone
+	iris_depth_camera
 	iris_ctrlalloc
 	iris_dual_gps
 	iris_foggy_lidar
