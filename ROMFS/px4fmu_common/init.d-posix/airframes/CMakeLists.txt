@@ -32,6 +32,7 @@
 ############################################################################
 
 px4_add_romfs_files(
+	10015_erl_drone
 	10016_iris
 	10017_iris_ctrlalloc
 	10018_iris_foggy_lidar

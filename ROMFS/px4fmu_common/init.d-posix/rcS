@@ -145,6 +145,12 @@ param set-default SENS_MAG_MODE 0
 
 param set-default IMU_GYRO_FFT_EN 1
 
+#MODIFIED ERL PARAMS
+param set EKF2_AID_MASK 280
+param set EKF2_HGT_MODE 3
+param set COM_RCL_EXCEPT 4
+# end of ERL PARAMS
+
 param set-default -s MC_AT_EN 1
 
 # By default log from boot until first disarm.
